@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/testjunit/src/main/
+/testjunit/target/
+/testMyJunit/target/
